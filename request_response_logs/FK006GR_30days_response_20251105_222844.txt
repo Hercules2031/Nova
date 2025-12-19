@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: FK006GR_30days
+Timestamp: 2025-11-05 22:28:44
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:43 GMT
+Content-Type: application/json
+Content-Length: 330
+Connection: keep-alive
+x-amz-rid: QF50E1E5P3MD9RJ9DY2E
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: df6509ba-2a74-476d-a39f-54fdb16c6480
+x-amz-apigw-id: OPFdf6509ba2a74
+X-Amzn-Trace-Id: Root=1-690b5f1b-df6509ba2a74476d
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 75,
+	  "orderItemCount" : 69,
+	  "orderCount" : 69,
+	  "averageUnitPrice" : {
+	    "amount" : 8.99,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 674.25,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+1.015405 seconds

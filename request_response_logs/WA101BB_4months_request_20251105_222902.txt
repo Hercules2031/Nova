@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: WA101BB_4months
+Timestamp: 2025-11-05 22:29:02
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=WA101BB
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIH9jyh5OVqXISDgi0LnV3iQ0UJm3y3K-GCQcIVgmwfhT_SX8ixHuYq6OQqYVccyg1HhtdHVJnqMYEmThA-IUbDhnLRjoXOIvOMOo2eA0sE8C6FgpGg1Xo5x2u5psx7wVtqbLZy-HqKtzHhxmM5V9pKjcXQRkbt-JRZJvx5bdwwkXe1qb_K6RrTxwF1DZfXupYSrBYSbpHqClYmCH86DpiNA11grh3vwSfXG78TkhkqX5x8___KaavnRyZ7KgLn-Za-uvxUrgky2NgTWFpxujIjE1Hc1j3os4jo8ZDOTmNjNmSmu9-V72xE6z9j5u7BDuXgpedRSIEgj3JCwVKGstB9SpC8eltsydhUIpuYtn9805lA
+
+--- BODY ---
+No body

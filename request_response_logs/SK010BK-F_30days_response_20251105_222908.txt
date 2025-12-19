@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK010BK-F_30days
+Timestamp: 2025-11-05 22:29:08
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:29:07 GMT
+Content-Type: application/json
+Content-Length: 323
+Connection: keep-alive
+x-amz-rid: NNQ5R8V5QQQHMN7M624W
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 53b1f6c1-6057-440f-b7b7-95a86ea38b94
+x-amz-apigw-id: OPF53b1f6c16057
+X-Amzn-Trace-Id: Root=1-690b5f33-53b1f6c16057440f
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 0,
+	  "orderItemCount" : 0,
+	  "orderCount" : 0,
+	  "averageUnitPrice" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.958323 seconds

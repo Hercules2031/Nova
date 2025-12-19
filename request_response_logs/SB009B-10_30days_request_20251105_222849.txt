@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SB009B-10_30days
+Timestamp: 2025-11-05 22:28:49
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=SB009B-10
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIBDvPO38kE1Stnk1yzfjXkL9zbnLVBikqV18vS8RITopl4sHfvKXXvCy4liylxfwNkhD6kMntto1l6hin_A_XeTFJCg0nUxXqkUK5ZuGLaPGTlhMUDF33XMIYaNU9LR3jlHNjXzwoZmEJb46WJRbGbk3a0IDTbpEm3G75gqi0RMXW32mdaYsIJOddWW4wTNhkRFnTFJ0C9edoq1_oDQ50PsRkhJOdshO2BXaeacVFTh8qOMfZoGUeaJfgPVoXlzNWreQc9gTCl2ol1vS_vvmR9Tn_YIkH6DDKkq6Fljj-ZtLJyiYHAgjOshTBnz_xwsVCNObZfjwjj6Ni73rUX_Dg1xM43qaN0vd4RD6SONwKbTHrQ
+
+--- BODY ---
+No body

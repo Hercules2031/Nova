@@ -1,0 +1,19 @@
+=== TOKEN RESPONSE ===
+Status Code: 200
+Headers:
+{
+  "Server": "Server",
+  "Date": "Wed, 05 Nov 2025 14:32:01 GMT",
+  "Content-Type": "application/json;charset=UTF-8",
+  "Content-Length": "806",
+  "Connection": "keep-alive",
+  "x-amz-rid": "PJEBSW6H7ED5MCG6Z99G",
+  "x-amzn-RequestId": "1ebbc2e9-1bea-4a6e-9e2e-62eccddcbda9",
+  "X-Amz-Date": "Wed, 05 Nov 2025 14:32:01 GMT",
+  "Cache-Control": "no-cache, no-store, must-revalidate",
+  "Pragma": "no-cache",
+  "Vary": "Content-Type,Accept-Encoding,User-Agent",
+  "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload"
+}
+Body:
+{"access_token":"Atza|IwEBICwu3kSh5-7DaKwyWKnYbHdt-xUv8DMkU_9aqpeR4vhdYpPT_bQp6wK4AN2Irt5x47kzNBeC8bR2t3EM9qjt-JrYafaC3kA55gyIRplhtw29W60Z0VkpKUruxMn56GvbxDyDp9MZVWcyptAJ7AF4OlV7MuVRgd-DsaR1_8wKNiSVDUKGyF1YzKDZY8SvMKzc5oQcha6q6-MQEfxqnqcWJb6hy2Ku5YTm1aPa8zo40mb6fV8rA6Po6ZDnEpGMLmbeCJmuyfOhHgQkpKiURmu5PKyB02Oo2QGFjjldEaNA848WZCRbS4dylhClmBsTobIM6UwpiuxxA5T2D_Zj5yzsrXJ5wKEXEcjBy5ccbvgtXYQeOQ","refresh_token":"Atzr|IwEBIFm2vNqpWw9aYNkikZvQ2bftQVb8kfYxhCdryNvk55TJwuReSwCULLxWq3BVXuEOLXTufNfsFDzVRNLEgezk_YdXeW7nL401v5fwTtVf8Vxrpt7g9lqxsAZP9uWrERGoiNwStK3TZ-fCNcnKibkIwPXBbOxVP6ifPH6WXSHeK_JHFnguD--PW04XN-cYs3jol_BzQL5-SoHK_JgJKVDt2Is6IqIz68ed2GoUkow61ffElLrajh894S0qrr6LCHuMtY-6Y-0fD_9VzhUumx30g-Y8N5kgPqX0-KbxrnlzPkt4G2VPlMPAKZ9sPbRFzy60_yDGGbglmA7vWxLbAzHuoKAL","token_type":"bearer","expires_in":3600}

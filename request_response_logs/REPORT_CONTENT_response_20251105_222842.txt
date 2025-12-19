@@ -1,0 +1,28 @@
+=== FULL RESPONSE DETAILS ===
+SKU: REPORT_CONTENT
+Timestamp: 2025-11-05 22:28:42
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+x-amz-id-2: aBrxSMC4inUvyCg+Kvgclvr13IAfDFGCGKosSGFy9bePSZnvweAt83K8ebaASLyaag5XlLnlySU=
+x-amz-request-id: KTQWN7Y6S8R7ARVY
+Date: Wed, 05 Nov 2025 14:28:42 GMT
+Last-Modified: Wed, 05 Nov 2025 14:17:29 GMT
+ETag: "6f95b8cf5fa3291c6883caec6bcdd18b"
+x-amz-server-side-encryption: aws:kms
+x-amz-server-side-encryption-aws-kms-key-id: arn:aws:kms:us-east-1:938342282304:key/16fd1590-2153-4128-b43d-cdc30ecf16eb
+x-amz-server-side-encryption-bucket-key-enabled: true
+x-amz-version-id: LpgLXMr6S8x2SIibfZWhYfmvlxfl6Zx.
+Content-Encoding: identity
+Accept-Ranges: bytes
+Content-Type: text/plain; charset=Cp1252
+Content-Length: 44108
+Server: AmazonS3
+
+--- BODY ---
+Binary content (size: 44108 bytes)
+
+--- RESPONSE TIME ---
+N/A seconds

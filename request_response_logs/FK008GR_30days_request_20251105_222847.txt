@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: FK008GR_30days
+Timestamp: 2025-11-05 22:28:47
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=FK008GR
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIAn-V4-XuxRugh38cSTkH6_uawD82-eUZn8yOtaINfqHXmBuhgFOlaSHIp1K5tFT3FP3YI7EgqOij0rPS2JH-vB-wNB393_pcZ9vH5XrGI_cfeFiHBR8-oDnaIZQrH0chIHR7SFsn9NxSbZvby_0Oq5oWez19Oa8Wg6rmibVKEYlgCNvN0yswjfnbZIWLJLGQpWCwOaaVeRwmaSKp7SXjeUYqCoE6Ms6Vn0-jb-jOkfbXpB772Pm67VM5cnU-kCRHNhkwv7WxjmB9LLC7hQp4VAT63Y5HL_OsE1eW-qe5lEUbSjssfy7__eZe9HhMF49nnW2oHjO8bsmXQAQOrKywuYaLEEMSNW3sYFz2y4nmhljOw
+
+--- BODY ---
+No body

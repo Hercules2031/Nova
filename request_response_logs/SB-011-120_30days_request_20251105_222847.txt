@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SB-011-120_30days
+Timestamp: 2025-11-05 22:28:47
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=SB-011-120
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIDms22a9c9BUo4753gF9xCbDvQdflK4evs72fTNFk2fAPXCwmMc3UponxzsQuTBt-bkR7gyImf9Q5O1DkyQR_Ot95cn7kMm2UBUvQc-9Dvh96VGdOAjt40YmYJVpFJpTWbQvhPIjiOF0433u-Ec_mSCptGyXI3FbOb5_QKXvu17DW2UCSnY0dKg4WAe93BT2tf-guGr4E8UPlvXhB94xGpilqKFADKUbymZ3-aG4hTHTii4zADzu2MMsnHC_bIN2KpTza1mYlh__oggofAuqLcgVcXVU2fHC-vI0hjr065VgTVGy-DeSzpuguX6IMGK67J6SFbRPpodkK-gRFZXjStIPdNsvpDNtpmXkIIAwAsOnRQ
+
+--- BODY ---
+No body

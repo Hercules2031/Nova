@@ -1,0 +1,34 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK010GR-5_4months
+Timestamp: 2025-11-05 22:28:54
+
+--- STATUS CODE ---
+429
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:53 GMT
+Content-Type: application/json
+Content-Length: 156
+Connection: keep-alive
+x-amz-rid: 5BTP1X8V4CS6MSHXF7NB
+x-amzn-RequestId: 19f80e9c-98e8-4f3e-b967-1fe7f4a12c62
+x-amz-apigw-id: OPF19f80e9c98e8
+X-Amzn-Trace-Id: Root=1-690b5f25-19f80e9c98e84f3e
+x-amzn-ErrorType: TooManyRequestsException
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "errors": [
+    {
+      "code": "QuotaExceeded",
+      "message": "You exceeded your quota for the requested resource.",
+      "details": ""
+    }
+  ]
+}
+
+--- RESPONSE TIME ---
+0.256926 seconds

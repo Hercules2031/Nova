@@ -1,0 +1,94 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK026-3_4months
+Timestamp: 2025-11-05 22:28:58
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:57 GMT
+Content-Type: application/json
+Content-Length: 1547
+Connection: keep-alive
+x-amz-rid: ENR67R4Q4DNHZQJNZNJA
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: cf611827-7a38-40b4-849c-926f09fef581
+x-amz-apigw-id: OPFcf6118277a38
+X-Amzn-Trace-Id: Root=1-690b5f29-cf6118277a3840b4
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-07-01T00:00-08:00--2025-08-01T00:00-08:00",
+	  "unitCount" : 21,
+	  "orderItemCount" : 12,
+	  "orderCount" : 12,
+	  "averageUnitPrice" : {
+	    "amount" : 12.66,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 265.79,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-08-01T00:00-08:00--2025-09-01T00:00-08:00",
+	  "unitCount" : 21,
+	  "orderItemCount" : 11,
+	  "orderCount" : 11,
+	  "averageUnitPrice" : {
+	    "amount" : 13.26,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 278.39,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-09-01T00:00-08:00--2025-10-01T00:00-08:00",
+	  "unitCount" : 27,
+	  "orderItemCount" : 10,
+	  "orderCount" : 10,
+	  "averageUnitPrice" : {
+	    "amount" : 13.47,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 363.73,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-10-01T00:00-08:00--2025-11-01T00:00-08:00",
+	  "unitCount" : 24,
+	  "orderItemCount" : 16,
+	  "orderCount" : 16,
+	  "averageUnitPrice" : {
+	    "amount" : 13.47,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 323.16,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-11-01T00:00-08:00--2025-12-01T00:00-08:00",
+	  "unitCount" : 1,
+	  "orderItemCount" : 1,
+	  "orderCount" : 1,
+	  "averageUnitPrice" : {
+	    "amount" : 13.99,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 13.99,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.247007 seconds

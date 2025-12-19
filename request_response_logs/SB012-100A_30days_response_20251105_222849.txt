@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SB012-100A_30days
+Timestamp: 2025-11-05 22:28:49
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:48 GMT
+Content-Type: application/json
+Content-Length: 331
+Connection: keep-alive
+x-amz-rid: 0XJM71BA2WE39RJ7T375
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 6935d20d-885b-4d7f-bbdc-15d30d65f095
+x-amz-apigw-id: OPF6935d20d885b
+X-Amzn-Trace-Id: Root=1-690b5f20-6935d20d885b4d7f
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 48,
+	  "orderItemCount" : 41,
+	  "orderCount" : 41,
+	  "averageUnitPrice" : {
+	    "amount" : 14.68,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 704.53,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+1.037705 seconds

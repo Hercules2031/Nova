@@ -1,0 +1,26 @@
+=== FULL RESPONSE DETAILS ===
+SKU: STATUS_CHECK_0
+Timestamp: 2025-11-05 22:28:09
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:08 GMT
+Content-Type: application/json
+Content-Length: 266
+Connection: keep-alive
+x-amz-rid: 61W206RFT8BQBAZS3YVZ
+x-amzn-RateLimit-Limit: 2.0
+x-amzn-RequestId: ddef52ff-2871-409c-b4a6-553b853ce9de
+x-amz-apigw-id: OPFddef52ff2871
+X-Amzn-Trace-Id: Root=1-690b5ef8-ddef52ff2871409c
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{"reportType":"GET_MERCHANT_LISTINGS_ALL_DATA","processingStatus":"IN_QUEUE","marketplaceIds":["ATVPDKIKX0DER"],"reportId":"364760020397","dataEndTime":"2025-11-05T14:28:07+00:00","createdTime":"2025-11-05T14:28:07+00:00","dataStartTime":"2025-06-10T20:11:24+00:00"}
+
+--- RESPONSE TIME ---
+N/A seconds

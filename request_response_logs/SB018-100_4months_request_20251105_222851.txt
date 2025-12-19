@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SB018-100_4months
+Timestamp: 2025-11-05 22:28:51
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=SB018-100
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIDQNPVICdYW6ZN3bhadGsTvYIMsYUC6eyvWyxFsM0qS5bcCrMNnIfg6OQ2YFyFfSkDXgbksBm_neU3wJxOledkQM3QZkaHJfAabg_BSz6chcyu6SylkPm-9ajGZQzfg4lM5AsqMIqpEH2ZeG0wgFtGJ9Fm-5tSziwt4zHCJqekgNZc5vnlvdGi9TaNQMKQnmbFZJ_wf72ddJNtBLQCGRZw80WfMt_CK75TsOY6HBA3BqdrE4wHE6T0ZuHM9Sk6e-LBJgGZcq5R6tNAkFFgVn_B-qj5pfo54czcEpN_B4zQthLIEBGmrvi9HD1Jb94DsiUYPvaJVT5im05-CfYyOlAcwASik64Tztiw_BeFZf87FAFg
+
+--- BODY ---
+No body

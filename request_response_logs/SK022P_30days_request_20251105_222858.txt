@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK022P_30days
+Timestamp: 2025-11-05 22:28:58
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=SK022P
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIH-zGOv4geJQiKL8Q1EpurJWHup6NxFyoyZ74D2Dit3I1CXPaY6yuahIbrEC94teK83cUxE4anXlW-ibdSylp5G2BjfZG8xJPRjcIkai-FfQu_bHBj0K3rDWk39qdRh_s3HXq1nepXvHMCqgbQM7yGuakr4Zmh73vOM5yNdsMl3xqpYoi7Cs4U23IuNfdM3NRTag5DXz6i518oQhu7lDO9QJiYzJdxVA1STtShOSDpej6l8V5lvQu0iHv4QPsfzOJx3wV25KVyiJKgztmqq3mTLApr0Hsuzre5KAIZLSEut1tKDPzLJ9uGOZP9ANh18y8wYXQrMAcSKh6jj45AQiU9tFyZECX4X_6VkdsE9dSpZ5BQ
+
+--- BODY ---
+No body

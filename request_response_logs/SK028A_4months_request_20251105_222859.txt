@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK028A_4months
+Timestamp: 2025-11-05 22:28:59
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=SK028A
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIECvrlYoMtgpPu1VLTwbSVYS7ZZuhrGqjs9SIq_3CXGm8dqzQr7S5Xu9DTIg_X5alxCBNAuROAkqRILF85pDLn3k1gKSZWH1kPo2zTxziUIWowoj9VsE8Gy01Fwnvmg2NHjdVDVdXae8L7k-1aWREIpSSGYG2bQ7i-RNi6-VFMjmhciRMVVeMpIOIQNaEzBDD2Vxt4u3DtgXIYoufO9as_X7pOiXH-OJIA8wREenUw5faui86Gs4tfYxRmv_idyKBhGbPhNWgh4fa86pArhQMQXJA3waIvP862n3t_HoR9niphmE9lPC_lB_uv1Md9F-7GmyFgYlTxnI0Uoiwn3oojrp_X1l0RZr4ZriGYhbbgduuA
+
+--- BODY ---
+No body

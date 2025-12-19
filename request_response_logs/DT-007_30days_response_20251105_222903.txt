@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: DT-007_30days
+Timestamp: 2025-11-05 22:29:03
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:29:01 GMT
+Content-Type: application/json
+Content-Length: 323
+Connection: keep-alive
+x-amz-rid: JBDBVKA9SW4Q3EDHN3K1
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 17659fa3-879d-4ad7-b9bf-f8c5f3bc4f55
+x-amz-apigw-id: OPF17659fa3879d
+X-Amzn-Trace-Id: Root=1-690b5f2d-17659fa3879d4ad7
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 0,
+	  "orderItemCount" : 0,
+	  "orderCount" : 0,
+	  "averageUnitPrice" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.978142 seconds

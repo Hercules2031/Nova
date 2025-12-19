@@ -1,0 +1,19 @@
+=== STATUS RESPONSE 0 ===
+Status Code: 200
+Headers:
+{
+  "Server": "Server",
+  "Date": "Wed, 05 Nov 2025 14:32:03 GMT",
+  "Content-Type": "application/json",
+  "Content-Length": "266",
+  "Connection": "keep-alive",
+  "x-amz-rid": "HJ2X48ARTZJTZ9Q53AEP",
+  "x-amzn-RateLimit-Limit": "2.0",
+  "x-amzn-RequestId": "1dfb04e7-b728-4b7c-ae19-0a388b2873e4",
+  "x-amz-apigw-id": "OPF1dfb04e7b728",
+  "X-Amzn-Trace-Id": "Root=1-690b5fe3-1dfb04e7b7284b7c",
+  "Vary": "Content-Type,Accept-Encoding,User-Agent",
+  "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload"
+}
+Body:
+{"reportType":"GET_MERCHANT_LISTINGS_ALL_DATA","processingStatus":"IN_QUEUE","marketplaceIds":["ATVPDKIKX0DER"],"reportId":"364761020397","dataEndTime":"2025-11-05T14:32:02+00:00","createdTime":"2025-11-05T14:32:02+00:00","dataStartTime":"2025-06-10T20:11:24+00:00"}

@@ -1,0 +1,26 @@
+=== FULL RESPONSE DETAILS ===
+SKU: REPORT_CREATION
+Timestamp: 2025-11-05 22:28:08
+
+--- STATUS CODE ---
+202
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:07 GMT
+Content-Type: application/json
+Content-Length: 27
+Connection: keep-alive
+x-amz-rid: THHZY0BJ4NYGTJP9RBDV
+x-amzn-RateLimit-Limit: 0.0167
+x-amzn-RequestId: 9d65d555-b58e-4bb4-881f-bc88e5691aa1
+x-amz-apigw-id: OPF9d65d555b58e
+X-Amzn-Trace-Id: Root=1-690b5ef7-9d65d555b58e4bb4
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{"reportId":"364760020397"}
+
+--- RESPONSE TIME ---
+N/A seconds

@@ -1,0 +1,94 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK022P_4months
+Timestamp: 2025-11-05 22:28:58
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:57 GMT
+Content-Type: application/json
+Content-Length: 1524
+Connection: keep-alive
+x-amz-rid: C7PZCFPMM650G6RWEQ7C
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 92257c8e-5c5d-4e03-ab7b-fff95e177f83
+x-amz-apigw-id: OPF92257c8e5c5d
+X-Amzn-Trace-Id: Root=1-690b5f29-92257c8e5c5d4e03
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-07-01T00:00-08:00--2025-08-01T00:00-08:00",
+	  "unitCount" : 94,
+	  "orderItemCount" : 7,
+	  "orderCount" : 7,
+	  "averageUnitPrice" : {
+	    "amount" : 7.15,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 672.26,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-08-01T00:00-08:00--2025-09-01T00:00-08:00",
+	  "unitCount" : 4,
+	  "orderItemCount" : 1,
+	  "orderCount" : 1,
+	  "averageUnitPrice" : {
+	    "amount" : 8.99,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 35.96,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-09-01T00:00-08:00--2025-10-01T00:00-08:00",
+	  "unitCount" : 0,
+	  "orderItemCount" : 0,
+	  "orderCount" : 0,
+	  "averageUnitPrice" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-10-01T00:00-08:00--2025-11-01T00:00-08:00",
+	  "unitCount" : 6,
+	  "orderItemCount" : 5,
+	  "orderCount" : 5,
+	  "averageUnitPrice" : {
+	    "amount" : 8.99,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 53.94,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-11-01T00:00-08:00--2025-12-01T00:00-08:00",
+	  "unitCount" : 1,
+	  "orderItemCount" : 1,
+	  "orderCount" : 1,
+	  "averageUnitPrice" : {
+	    "amount" : 8.99,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 8.99,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.256053 seconds

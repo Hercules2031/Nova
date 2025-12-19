@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: DT-007_4months
+Timestamp: 2025-11-05 22:29:03
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=DT-007
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIIaBndCA0FmvE83F6s9_7-fi3Rm3WGEOmkbbc5PD9yE6xfkSxiONmwsu_IOsmc76klbpHcLjTR85UCJbwCfP6OAtHs3FLtgvOJ-cWF4goiIbJvZSzjSMIr2UzjOVWy2yPdD2i8JZAX0XcNNO16yufiET8ktFxWQvuxmU0PEq9SOCXKMZsQZm_rlJawf9H6YyUZURD1aXZbk_PzS4ozcdbcv9_XiBPsYS4eQd9_PUjdgF_AX9M15Ma36eYk8UPRWhzLm1NAP1FZ3xdoFQyGS6UquEUq_ELTFLofa4WZwER487NxC1JNTrDGai0T08CligDjt5Vhl9tQ1FXpAQs3gPIUNnACzmUTBYDgtnyAtTT6Mn8g
+
+--- BODY ---
+No body

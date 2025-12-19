@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: DT-009-F_4months
+Timestamp: 2025-11-05 22:29:03
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=DT-009-F
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBINU6VUmwqAmciy2a_7GYAQIdIsl9FXlSeElpUWMzi2HeSuQUhb8Wh2Vsl__xtVOZSqqtiO1meOtCfHyYNkGpbn5oEYt3rf9FgVWUXU_UAMvByaX8L9_4VOyUNm74CxWXr8zBQAmVvIPX2PKYjYQipTQ6n0bjlOQhbr2w9I1S8UOw4t0vkQHrQHljFN7fXVau7XDjdoXsukNuzI2G6hEEo13CiK3yqWHpiAUdXjWvkQJd6V0WiunYRAa2-GAM_v6Sn5sYr_LkarFvegwiOaLi2Re8-QTobPDjJ_IpOUBfQB7eeO_Q7K_JAbNuEsXtOfkMOMOhAgN8E-h2CZ4gwmQTxYMn3lYu_q3asKTtzepU__tZNQ
+
+--- BODY ---
+No body

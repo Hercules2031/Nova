@@ -1,0 +1,94 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SB-009P-10F_4months
+Timestamp: 2025-11-05 22:29:04
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:29:03 GMT
+Content-Type: application/json
+Content-Length: 1522
+Connection: keep-alive
+x-amz-rid: EMQ71KHCXY05J10A56ZH
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: cca78c67-cb57-41d6-b41e-af801c1286d1
+x-amz-apigw-id: OPFcca78c67cb57
+X-Amzn-Trace-Id: Root=1-690b5f2f-cca78c67cb5741d6
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-07-01T00:00-08:00--2025-08-01T00:00-08:00",
+	  "unitCount" : 0,
+	  "orderItemCount" : 0,
+	  "orderCount" : 0,
+	  "averageUnitPrice" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-08-01T00:00-08:00--2025-09-01T00:00-08:00",
+	  "unitCount" : 116,
+	  "orderItemCount" : 5,
+	  "orderCount" : 5,
+	  "averageUnitPrice" : {
+	    "amount" : 7.49,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 868.84,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-09-01T00:00-08:00--2025-10-01T00:00-08:00",
+	  "unitCount" : 0,
+	  "orderItemCount" : 0,
+	  "orderCount" : 0,
+	  "averageUnitPrice" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-10-01T00:00-08:00--2025-11-01T00:00-08:00",
+	  "unitCount" : 100,
+	  "orderItemCount" : 1,
+	  "orderCount" : 1,
+	  "averageUnitPrice" : {
+	    "amount" : 7.49,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 749.0,
+	    "currencyCode" : "USD"
+	  }
+	},		{
+	  	  "interval" : "2025-11-01T00:00-08:00--2025-12-01T00:00-08:00",
+	  "unitCount" : 0,
+	  "orderItemCount" : 0,
+	  "orderCount" : 0,
+	  "averageUnitPrice" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 0.0,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.250996 seconds

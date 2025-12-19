@@ -1,0 +1,19 @@
+=== REPORT RESPONSE ===
+Status Code: 202
+Headers:
+{
+  "Server": "Server",
+  "Date": "Wed, 05 Nov 2025 14:32:02 GMT",
+  "Content-Type": "application/json",
+  "Content-Length": "27",
+  "Connection": "keep-alive",
+  "x-amz-rid": "42BW42DWETRDFPJQ1AH7",
+  "x-amzn-RateLimit-Limit": "0.0167",
+  "x-amzn-RequestId": "91327d41-d4bf-455c-a7ae-da1cba60f2a8",
+  "x-amz-apigw-id": "OPF91327d41d4bf",
+  "X-Amzn-Trace-Id": "Root=1-690b5fe2-91327d41d4bf455c",
+  "Vary": "Content-Type,Accept-Encoding,User-Agent",
+  "Strict-Transport-Security": "max-age=47474747; includeSubDomains; preload"
+}
+Body:
+{"reportId":"364761020397"}

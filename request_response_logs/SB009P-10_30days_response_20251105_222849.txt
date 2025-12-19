@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SB009P-10_30days
+Timestamp: 2025-11-05 22:28:49
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:48 GMT
+Content-Type: application/json
+Content-Length: 332
+Connection: keep-alive
+x-amz-rid: V68YKTQPPQ492XD5B003
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: eb0b7ddb-67e7-4f81-b05b-cd2faa39e37d
+x-amz-apigw-id: OPFeb0b7ddb67e7
+X-Amzn-Trace-Id: Root=1-690b5f20-eb0b7ddb67e74f81
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 254,
+	  "orderItemCount" : 24,
+	  "orderCount" : 21,
+	  "averageUnitPrice" : {
+	    "amount" : 5.61,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 1425.62,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+1.055279 seconds

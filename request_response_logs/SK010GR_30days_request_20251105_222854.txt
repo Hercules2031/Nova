@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK010GR_30days
+Timestamp: 2025-11-05 22:28:54
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=SK010GR
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIApfSremffSpeXzEDtsWiVb9mGpAuHDNIkiGXcvqPdggg0M0cnyR7syxPPfMi6MECiLWv-Q94xeHEprue4bB5D9_I7QdM5gsnUhNAVAKaEsyaPCPvdGplLv2KlEDy9XIycREAcsRm_L1_AVNXSHkKe0m3r9Ms-gSMQ1N8x-bs19kFfhHKIdaZ5lqC5L__GvZhG0w6LGSv_hhsnBKjH7qV9U6uH_LnHDlMquxXBqXc6bILZv1kgG3eLwBJMA6rLltl0y4rJH0H4H8ow11Gx1jlKge3kTuccAWdvyTf0tDa049E2c3zBzecDoPfzkUcCNgeXEtuT66i-i7Ah_PZ02shVgqNTqy0vUPYq-MlUqFQx2M0A
+
+--- BODY ---
+No body

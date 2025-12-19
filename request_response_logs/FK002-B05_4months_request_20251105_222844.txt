@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: FK002-B05_4months
+Timestamp: 2025-11-05 22:28:44
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=FK002-B05
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIBNs5gQde45Jm5V2zzXgglCcFJboqsk4MT8s7zOvF7ftdTE4UJ2FRbq7cK0oSUPi-86EtJkbzg5y60C79TIvTkY66ECtTuhQlNj0QB5I-AMuea5eAdy-BtNPZNYnbvUrzW3RKZ8q9HlkkiVcqxB_ZTBAoFaI7ORmvBTTHCfVsLAbHBqV2xzV6HnWK8JZP63jKTO2v0wwK312u7jn12a9iX2WWYq26_PRXmB1GJzRz153_DP6UqaLCG4GjrVMHxd1VjhuZFsH9dmdM5eG-i5tYw4GTBNmjTf8_-qfT--h7QuD-l4tFYmg3TDp5G9Y8cwdmcW1XaLxFUBbRVOV4wDAkVPs0fOt-BlDWLJFnwYFtARRQQ
+
+--- BODY ---
+No body

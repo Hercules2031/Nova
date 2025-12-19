@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: WA100BO_30days
+Timestamp: 2025-11-05 22:29:02
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:29:00 GMT
+Content-Type: application/json
+Content-Length: 326
+Connection: keep-alive
+x-amz-rid: BK9NR5V9FQBN888S9WVE
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 22487985-aacd-448b-94d6-beda0ee86d04
+x-amz-apigw-id: OPF22487985aacd
+X-Amzn-Trace-Id: Root=1-690b5f2c-22487985aacd448b
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 4,
+	  "orderItemCount" : 4,
+	  "orderCount" : 4,
+	  "averageUnitPrice" : {
+	    "amount" : 38.0,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 152.0,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.93191 seconds

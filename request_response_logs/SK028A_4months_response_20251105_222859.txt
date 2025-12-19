@@ -1,0 +1,34 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK028A_4months
+Timestamp: 2025-11-05 22:28:59
+
+--- STATUS CODE ---
+429
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:58 GMT
+Content-Type: application/json
+Content-Length: 156
+Connection: keep-alive
+x-amz-rid: HHZ7J4W290F5RXF6ARDE
+x-amzn-RequestId: 6038ec22-5d8f-48d7-ace8-af6ebcb95517
+x-amz-apigw-id: OPF6038ec225d8f
+X-Amzn-Trace-Id: Root=1-690b5f2a-6038ec225d8f48d7
+x-amzn-ErrorType: TooManyRequestsException
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "errors": [
+    {
+      "code": "QuotaExceeded",
+      "message": "You exceeded your quota for the requested resource.",
+      "details": ""
+    }
+  ]
+}
+
+--- RESPONSE TIME ---
+0.244752 seconds

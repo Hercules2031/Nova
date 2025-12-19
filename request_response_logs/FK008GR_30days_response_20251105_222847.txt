@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: FK008GR_30days
+Timestamp: 2025-11-05 22:28:47
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:45 GMT
+Content-Type: application/json
+Content-Length: 326
+Connection: keep-alive
+x-amz-rid: YWTJBAYB4CGXPXTQ9SXW
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: ed917fd7-51c2-48dc-ba2c-fb9eaa64f72a
+x-amz-apigw-id: OPFed917fd751c2
+X-Amzn-Trace-Id: Root=1-690b5f1d-ed917fd751c248dc
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 4,
+	  "orderItemCount" : 4,
+	  "orderCount" : 4,
+	  "averageUnitPrice" : {
+	    "amount" : 9.99,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 39.96,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+1.017399 seconds

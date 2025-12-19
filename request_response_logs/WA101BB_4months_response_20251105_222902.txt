@@ -1,0 +1,34 @@
+=== FULL RESPONSE DETAILS ===
+SKU: WA101BB_4months
+Timestamp: 2025-11-05 22:29:02
+
+--- STATUS CODE ---
+429
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:29:01 GMT
+Content-Type: application/json
+Content-Length: 156
+Connection: keep-alive
+x-amz-rid: 82K125HDWCJ78G1Z2CFQ
+x-amzn-RequestId: 42f4fa35-7ec7-48fd-846a-2d9c264a8aab
+x-amz-apigw-id: OPF42f4fa357ec7
+X-Amzn-Trace-Id: Root=1-690b5f2d-42f4fa357ec748fd
+x-amzn-ErrorType: TooManyRequestsException
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "errors": [
+    {
+      "code": "QuotaExceeded",
+      "message": "You exceeded your quota for the requested resource.",
+      "details": ""
+    }
+  ]
+}
+
+--- RESPONSE TIME ---
+0.235884 seconds

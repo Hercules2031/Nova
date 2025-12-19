@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: FK006BL_4months
+Timestamp: 2025-11-05 22:28:44
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=FK006BL
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBILyQ48LtbtbLhS5PpTwVNcGTDPFQrscuD-mnLqtyMJZmz_ViwJdmJwbi9yV1J-xzNrrB2680cdJ54e4u_kKC9xWa1kytMs9PMYRHtzW8Ws4YJdXKnNtsXrL2_I58VXTQ9qPo9LU4eHZE2EAm72xJQdrt42G9xlMn62-bVrent9PWhEl-Nx1KYApQwXB2VhWPT7g1D7wC0dbS0UzfqC5OYZpFpb1PyaqXrzA3YrC9Wd5fIPbGvuP05fd1V7PumLis4PHQziL7MvNziLOcY_jkUWBq12w2BTSYJ0N1a0C1Ix3YgnZywUAo75B7Lk2fEDSCwDtd2CBTimCaGDkYZ_8fRWb9TrCyIU1sPIdP4g5klwtgVw
+
+--- BODY ---
+No body

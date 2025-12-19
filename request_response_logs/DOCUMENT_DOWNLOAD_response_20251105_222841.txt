@@ -1,0 +1,26 @@
+=== FULL RESPONSE DETAILS ===
+SKU: DOCUMENT_DOWNLOAD
+Timestamp: 2025-11-05 22:28:41
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:40 GMT
+Content-Type: application/json
+Content-Length: 531
+Connection: keep-alive
+x-amz-rid: G9KGPJPEAJGYRVMY4F9P
+x-amzn-RateLimit-Limit: 0.0167
+x-amzn-RequestId: 1950332e-f541-405e-bb5b-614fd4434257
+x-amz-apigw-id: OPF1950332ef541
+X-Amzn-Trace-Id: Root=1-690b5f18-1950332ef541405e
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{"reportDocumentId":"amzn1.spdoc.1.4.na.8186baf1-fe41-4a52-8560-af2c3784b7ba.T3US9YB9VACZCV.47700","url":"https://tortuga-prod-na.s3-external-1.amazonaws.com/8186baf1-fe41-4a52-8560-af2c3784b7ba.amzn1.tortuga.4.na.T3US9YB9VACZCV?response-content-encoding=identity&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251105T142840Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=AKIA5U6MO6RAJGX6QOWO%2F20251105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8bf62763cfa9b0f135ecd9ce94fbcc5c6754f967f8ab9260f1f7cf67573fc563"}
+
+--- RESPONSE TIME ---
+N/A seconds

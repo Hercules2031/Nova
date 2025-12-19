@@ -1,0 +1,5 @@
+credentials = dict(
+shipmonk_inventory_api="prod_gkyyqBojfot4rSg7Dp1bwMwNQabtcOlzf1v1P3orj6Va8NK2Ke",
+shipmonk_order_api="prod_gkyyqBojfot4rSg7Dp1bwMwNQabtcOlzf1v1P3orj6Va8NK2Ke"
+
+)

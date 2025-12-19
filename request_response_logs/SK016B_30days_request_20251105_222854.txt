@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK016B_30days
+Timestamp: 2025-11-05 22:28:54
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=SK016B
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIPpipI3DIACBfKhpIQig8JtA3UjE6set9SzGmfCKL2ksMC3mUoDDHhEbyOIm2iHsV6BoY2hbrx2Iy6S93Md1WSr7Ibh9M-fnBbw4ePLG_cOueYzJm7RTkTpdjGwiV24kEugtd4IeBht3HLdqlhae7P1ham596pl1aL1T-UVWQUVKSBKdi0R2tuPyuajhFweEH8MA-lFJgufKSvGRLQ6NCeuowFQE_ifjWwLomDekAP0GXLGA0AWp2r7Pztb5OahMua-Qsw6WHBih3oVxdOUXxI6qFqdamtn5fiUgbegN3knhcaFScFvC5bRbZua1ulVl25jIFvsrz948HQtGjQyBXeVJX7yETSmOLM4p4LD0vDNXxQ
+
+--- BODY ---
+No body

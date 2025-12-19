@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK008BG-2_4months
+Timestamp: 2025-11-05 22:28:51
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=SK008BG-2
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIAn0UAb7uor_JSRlBnLgs9drPabBci3pMbE0d6mpe0Ezx9MYMSoq4W4aIf9ny3-JVtdvVq9SJ3T68BBYfWLax_kGxjbDnLFo5ioKoakruLe_O8FvbCIovXxncDX82kNmpEWAMG4lI-_bb4DY_zr5Pl-pfWj3-36x6b_GDfZCm6rm_WE8kw4s1tc97LkoE120o29tyVx0SpQVLpwfa6FJWhCCsIILGPFUUUHp91V_nOZA36xMKwCvvNojl70txvJPfttGL0sqPwGaNpDpXLD_-ennloMe16dnL3d9ztWfOYoVksL_H4IqvP8Je0TJ0e52m6_vNNzsZ_ZGArs7wYHxyiO06h9Sv9Ewcd0e-BZ5Dhv82g
+
+--- BODY ---
+No body

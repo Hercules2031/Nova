@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SB019-100_4months
+Timestamp: 2025-11-05 22:28:51
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=SB019-100
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIMJkLx9I165Z0kHWHkOOC6q2-m78I_52Rzv9tC2XT3orNSRMPYoo4-ypPtLzXyYh9G8xlAgGhhqIwIU9CAL7bDIkynNPVxEXVPermEqqrK4Qzam5ptG1xOom3r3WOQpJ3H4FuQhRI8Zwr2Ly7_F1lblqo6BfDgiHeuhilMAdbktYCcT904R4qoAcr_x6oPMuk_dejaRM8-peTfyEO9odLFKn31JkV1ihcjqZ871R5IrWB250KqITH-dV30Q6o4aHp59cjxNMoeSqqXxsJbFxddJ-YSS5mxJ_hNdW1Oyj2K1cg41deUtiI_zUmETn9VvDbzQAaibcswK6A-YjYwJbhzS9kPp1OvlxQ7Yqn8eXHPA4AA
+
+--- BODY ---
+No body

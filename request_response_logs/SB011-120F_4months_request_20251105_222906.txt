@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SB011-120F_4months
+Timestamp: 2025-11-05 22:29:06
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=SB011-120F
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIC9C3RRGvG_dEfDFdOXwCB-xX-xNE1_Ut6hFnSbd1W2Cz4p4b7JV1jpuDGNmucwxx7Z_KzfO1tstJRH8YiQZTzx4CEz16BOufkdrqwuSg_8xpUGQ2veD25K-iaTMKh_USxkcTnoIPAnBCv-B7t7HBzWflzbU8_9BRE-t3_pn2Sd4-vizosTusH7V-5H7HCG5OTtYNtGMCq1UU1kbbyTsuVg9w0mjpxZGSOMfczDNYVFAmhLifUIW7ZoXg3hs_ABPYJQ6RyNUDz0d7X8ShCAOyK-GCXATRoutJl1fFgEWw-nzdKCnf7YslIi09-2qmPTmDjW9zM6gJAnyDGTXf0iymUI_dq7-ls9xAcQCHX6OwAGB0Q
+
+--- BODY ---
+No body

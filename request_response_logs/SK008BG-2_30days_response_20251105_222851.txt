@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK008BG-2_30days
+Timestamp: 2025-11-05 22:28:51
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:50 GMT
+Content-Type: application/json
+Content-Length: 330
+Connection: keep-alive
+x-amz-rid: GS6B5Q36A0FHCA9AQHR2
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 530f0225-a3b9-4968-8bfc-8f6eeb672c6b
+x-amz-apigw-id: OPF530f0225a3b9
+X-Amzn-Trace-Id: Root=1-690b5f22-530f0225a3b94968
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 59,
+	  "orderItemCount" : 47,
+	  "orderCount" : 46,
+	  "averageUnitPrice" : {
+	    "amount" : 9.98,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 588.91,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.948586 seconds

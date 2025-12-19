@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: FK007_4months
+Timestamp: 2025-11-05 22:28:47
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=FK007
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIMgqDl5AfNfU3Sx8EanN4kH7QtwEhLXnsJnZ1hPnQ6ZIOiYyDCdxJfPMAvNjFZtciAfoDy2j2pVFm9nNGxB8LJt3xB3FOOK2l3yszD2El5g3a9X5jbH5_naH1vHX_RAQjlKKp_iSBWRP-uzZdEfPxxchFHaItr6SuZB8eRWkBM8Bp3kYm0DZyhsxuB_esrfNFi84gnYGXPNbcHkvDPnAn0XKc_lUxn_pTLhbLGoBcaLsFqIj1DPAeIKb7uRrPuA8falfRuOL5Clig8MF2xYrqh-jNqcgCWx-iSfIqRnjhlKLoYA62Kg145k60-g9lF-xU2CGMX1a3UkYtQOySQibuB7E6DW68r05u4WBMxcYG9LN2w
+
+--- BODY ---
+No body

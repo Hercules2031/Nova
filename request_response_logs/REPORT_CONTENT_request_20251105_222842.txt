@@ -1,0 +1,14 @@
+=== FULL REQUEST DETAILS ===
+SKU: REPORT_CONTENT
+Timestamp: 2025-11-05 22:28:42
+
+--- URL ---
+https://tortuga-prod-na.s3-external-1.amazonaws.com/8186baf1-fe41-4a52-8560-af2c3784b7ba.amzn1.tortuga.4.na.T3US9YB9VACZCV?response-content-encoding=identity&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251105T142840Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=AKIA5U6MO6RAJGX6QOWO%2F20251105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8bf62763cfa9b0f135ecd9ce94fbcc5c6754f967f8ab9260f1f7cf67573fc563
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+
+--- BODY ---
+No body

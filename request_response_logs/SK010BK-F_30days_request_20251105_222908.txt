@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK010BK-F_30days
+Timestamp: 2025-11-05 22:29:08
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=SK010BK-F
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIDTE9K8pm-hgxUw27EG8b3RWaFE44JOY6Gssq-Um86J7rtIYbAGST2yzwdmJZqlgSf62xNhEYoPKb5543u2Y4CxuyJr_nZBZkQMsPHY60yscDvfCPF3mve9_bk4xt3z4Pirbxgh2WKR6uYH-Krp7b44pejSYZpWo1lndpaXHOecjtNgfFMjLLUeu-weNVrE-G8tVQaf0DTItg377MINtZ0Epl-M5Kn0sekPD2M2qJZ_vOq71_Nv8dYEuxbTskoi6agt2zNGBGadKJTtGHKghDFDR8oLVWBaT6EkZPb3UFN_Ql33BHbxNT3UpXbATQ2jT6GtZzWhozj6NTslrK7ZUrO_MMFcIYxpON0KbWZTdKlO_1w
+
+--- BODY ---
+No body

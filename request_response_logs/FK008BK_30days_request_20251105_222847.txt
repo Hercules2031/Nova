@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: FK008BK_30days
+Timestamp: 2025-11-05 22:28:47
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=FK008BK
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIBhEKEX1oJur80VnRX967S8ZR7pDA5JpN8qja5ekP7LuDnArBh4afvkJoEGA98Q8aIHLn_GYymx0EShOUW6E2iXBU5tdksTqggS8BndViFS0CeiZwm9o8hlSoAWBezRaARTUdpSl8gWiylVDJyW1G4ljzbuhinmuf7eLpY29imiTG2uV1O2F8OhQKAkHf5KIcxz4Q6WCy9hOc4z4gGEu3n7pQtU0qckX5aYThwh-YJpbT_Y26t6haj6ydtMEnYYbdDuhZgIiRdCzzWr1kR7SLOQmJH-lZeF2lXfj29xgCaVM6Unfisupsce3XJ3zv_NYw3T6HTcj1Hu5rHk27VkalpRqhngT-7sOp8asfbDiIsR9qw
+
+--- BODY ---
+No body

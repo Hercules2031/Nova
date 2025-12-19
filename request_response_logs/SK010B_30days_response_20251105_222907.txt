@@ -1,0 +1,34 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK010B_30days
+Timestamp: 2025-11-05 22:29:07
+
+--- STATUS CODE ---
+429
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:29:06 GMT
+Content-Type: application/json
+Content-Length: 156
+Connection: keep-alive
+x-amz-rid: YWTQ8A161FZNMW0GF2K6
+x-amzn-RequestId: db7e21db-9e21-4c47-8444-6fbd70743b90
+x-amz-apigw-id: OPFdb7e21db9e21
+X-Amzn-Trace-Id: Root=1-690b5f32-db7e21db9e214c47
+x-amzn-ErrorType: TooManyRequestsException
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "errors": [
+    {
+      "code": "QuotaExceeded",
+      "message": "You exceeded your quota for the requested resource.",
+      "details": ""
+    }
+  ]
+}
+
+--- RESPONSE TIME ---
+0.941755 seconds

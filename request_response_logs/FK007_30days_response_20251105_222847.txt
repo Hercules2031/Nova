@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: FK007_30days
+Timestamp: 2025-11-05 22:28:47
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:45 GMT
+Content-Type: application/json
+Content-Length: 328
+Connection: keep-alive
+x-amz-rid: DBKQF02VF47W5Q57F7E7
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 74af1c08-931a-44b0-8bfb-11b396395a47
+x-amz-apigw-id: OPF74af1c08931a
+X-Amzn-Trace-Id: Root=1-690b5f1d-74af1c08931a44b0
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 9,
+	  "orderItemCount" : 9,
+	  "orderCount" : 9,
+	  "averageUnitPrice" : {
+	    "amount" : 19.99,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 179.91,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+1.009841 seconds

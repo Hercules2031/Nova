@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK016B-C1_30days
+Timestamp: 2025-11-05 22:28:55
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:54 GMT
+Content-Type: application/json
+Content-Length: 334
+Connection: keep-alive
+x-amz-rid: TBMKCV4Y69AH0CTR0C6R
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: d1fcc548-cb55-4abc-b2a0-1f8f29e41964
+x-amz-apigw-id: OPFd1fcc548cb55
+X-Amzn-Trace-Id: Root=1-690b5f26-d1fcc548cb554abc
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 154,
+	  "orderItemCount" : 105,
+	  "orderCount" : 105,
+	  "averageUnitPrice" : {
+	    "amount" : 19.7,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 3033.46,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.892948 seconds

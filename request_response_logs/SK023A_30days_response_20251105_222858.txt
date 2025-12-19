@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SK023A_30days
+Timestamp: 2025-11-05 22:28:58
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:57 GMT
+Content-Type: application/json
+Content-Length: 331
+Connection: keep-alive
+x-amz-rid: CPJBTARB5HZVFKGVGK63
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 60ffe4c7-b862-4d83-8d72-bf5208b73a03
+x-amz-apigw-id: OPF60ffe4c7b862
+X-Amzn-Trace-Id: Root=1-690b5f29-60ffe4c7b8624d83
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 69,
+	  "orderItemCount" : 29,
+	  "orderCount" : 27,
+	  "averageUnitPrice" : {
+	    "amount" : 10.31,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 711.31,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.971153 seconds

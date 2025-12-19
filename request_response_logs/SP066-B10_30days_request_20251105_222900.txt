@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SP066-B10_30days
+Timestamp: 2025-11-05 22:29:00
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=SP066-B10
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIIbB4EnvWCgwgNNoQf99kyOvOlQ7w7dMam55RCXgNu--vkJBBMBzkK72jb2466oEofGJYbH2DtXkawpnojdtpcDP9tVLPfjuiO7oE--Lwe8nxLV_hZvitMUd_ipfwX3iiHHuMmz_SgklX-KHYSa_HlT-oHZvZZXLAIzVTIZWuupMJgT0QwiQ7mTwFBzX0FQuul6bwD6Gzpy4jaf22WqZlevbZj7ibLWOiIezRWljoOj58d2uzT427nqhrqLW9deCnV3hUmw8T-envmqdt5wK0ZZxBu2106lZCfX3es6jT9ISR9t9pgcdIKxWOqQc8l8OZWfbPIdl307-W5OWJ_NGM4Opa7_tvI2to8M9mO6cfTZTTw
+
+--- BODY ---
+No body

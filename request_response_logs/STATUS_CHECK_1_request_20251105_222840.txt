@@ -1,0 +1,16 @@
+=== FULL REQUEST DETAILS ===
+SKU: STATUS_CHECK_1
+Timestamp: 2025-11-05 22:28:40
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/reports/2021-06-30/reports/364760020397
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBILonFBCaB3WpuI3y87mu_5QDMvVRRuXGZQuV_AKwFt5A_iLI-qffs9swhyuokbXcXYd4LIV8dEA0txBK8cHuWzsWn6Hr74NnHaJwgO8upCt-Ug7Dg5Y12O2wNaccvcPOTXGjgObp_p-sCkoLGWaMyUX8Fo1W2JougwVpxePSga77k8fRlrVpoZc2WfNMCZaXc1oLeFLYnIIpFn3R_C4OFKiNmVZi-FmDXSlle_ylXhasY2MgKqJCJ__YDKyPbb4vOc2xWpvlp8mA8Ypkjr4D07DaEVplYMeKY2TGi_0Do8W3Ncbhg4K61yYhFxyVgQpocVAiaaqCSVdMMF31YJ4daNNCpHR5H2DAyb6diM9NnQ1iig
+Content-Type: application/json
+
+--- BODY ---
+No body

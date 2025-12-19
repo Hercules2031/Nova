@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: WA101BB_30days
+Timestamp: 2025-11-05 22:29:02
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:29:01 GMT
+Content-Type: application/json
+Content-Length: 326
+Connection: keep-alive
+x-amz-rid: TG4R89FBJ8R1FBWQ8S2C
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: a79cc3b2-5bc9-4f52-9f12-cac9520b29ca
+x-amz-apigw-id: OPFa79cc3b25bc9
+X-Amzn-Trace-Id: Root=1-690b5f2d-a79cc3b25bc94f52
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 5,
+	  "orderItemCount" : 5,
+	  "orderCount" : 5,
+	  "averageUnitPrice" : {
+	    "amount" : 38.0,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 190.0,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+0.879048 seconds

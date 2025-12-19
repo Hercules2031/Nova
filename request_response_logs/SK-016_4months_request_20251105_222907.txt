@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK-016_4months
+Timestamp: 2025-11-05 22:29:07
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=SK-016
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIHBAc0OdE64iNKhDdMVOcckYrIwryo5atWuBs2TMgzdB16DoYiAEBj6KU6no-QXPeOhsSM1Dj5xyiXRJ7qftrAJYgdgIHMwwGnzG6ybUaw9tvgDka2Ezc3vM0aASCRkJ56ZxQBsnWiPXx2DzUQQeWE9dgAkCx-TlAJZnINjpyIxh-wUdI284pMEx4KK0CZeecB74tMI7M1mOkfLyfdg_Dm2fCbJx_5IYeXun_USN2issf6pmSkaNspmeE3683He2Qqyc5OC5LVqaOCqpo0rZF4VWzui4d5Z1QfNplrBS4UMQn7Sy8ER3DZSP5lUQHYQEtYT55bLJaKFKn-McYrjGnpKC9mR3eoyUT5u_7MGJaYHZNg
+
+--- BODY ---
+No body

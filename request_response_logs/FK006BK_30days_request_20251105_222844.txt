@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: FK006BK_30days
+Timestamp: 2025-11-05 22:28:44
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=FK006BK
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBINMdZHjOS-THl4lM_UHjPipVSAdCIbZIGAkLI_Atk0GQHfm_44WyF3WDfxDyIOIrWWsiKAZG6o2bMwDsXnL4WwGddxW8YTTYu4DxUKVmRC3fNKk99cEmtWnq9-CJZDBnU6T09AkfCyUNQumiit0bDsngQVydhumlHyBxhtVfdDZHhUuomRWppqxPOBRlYCAExWGq7Ws2IMRYw4-X60z7JxxY37Ej6N3H1atoJlHckFH7oicFZbHvn2Xk8h_8HkJ6k8KCIcC49dqAm5D4NwKBN4Gyn26w7BTHAuHy_BowC3Q6PJRtG198XYq4mbqsQqp-QkH2pFSCBvce-DeqUq7p_lIU-YOSziwHSfohR3KX40Xjvw
+
+--- BODY ---
+No body

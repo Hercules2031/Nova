@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK010B-1_4months
+Timestamp: 2025-11-05 22:29:08
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=SK010B-1
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBID6oE03En_5wF-qyz0BhxI4iNDt0T8lcH5t0H0kgzQhNX8V1iW4q0pH61AgJxPZVp2qa9BBb5v5d1dYzeDUA1siaohvASwezKtdCKxgvTTYz3C6n4lJ0UbfEXu11XzQccU2Nm33GaU2DuwMZCb6eiKpQOARF3K48vsxdc84MPaM-w6n_rL456WlovNNN1sJy1ndB-ShXUIGBUKb2Iw7u4WYZk5TVL17LAOavTEJ04qRAiaqeyV6d6--jSE7abJRDydRFTwwT3mEl8Sr1P2LGESnBI3wvPVDFT2Bp4pAYePngrzPB2LfEAdRooZEABsmTMu4EihZlO-DHTpDjCVxTEUdPfv8eAhKpj9lNp9E84z68jQ
+
+--- BODY ---
+No body

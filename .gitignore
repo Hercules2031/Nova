@@ -1,0 +1,5 @@
+*.csv
+*.xls
+*.xlsx
+.amazon_cred.py
+.shipmonk_cred.py

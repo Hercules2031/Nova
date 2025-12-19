@@ -1,0 +1,42 @@
+=== FULL RESPONSE DETAILS ===
+SKU: SP068-B20_30days
+Timestamp: 2025-11-05 22:29:00
+
+--- STATUS CODE ---
+200
+
+--- HEADERS ---
+Server: Server
+Date: Wed, 05 Nov 2025 14:28:59 GMT
+Content-Type: application/json
+Content-Length: 331
+Connection: keep-alive
+x-amz-rid: NBCRS53QD745EAEE3QAD
+x-amzn-RateLimit-Limit: 0.5
+x-amzn-RequestId: 8ceb9042-1e25-4bce-bf6a-476d6cbf8cfa
+x-amz-apigw-id: OPF8ceb90421e25
+X-Amzn-Trace-Id: Root=1-690b5f2b-8ceb90421e254bce
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+
+--- BODY ---
+{
+  "payload" : [
+    	{
+	  	  "interval" : "2025-10-06T00:00-08:00--2025-11-05T00:00-08:00",
+	  "unitCount" : 12,
+	  "orderItemCount" : 12,
+	  "orderCount" : 12,
+	  "averageUnitPrice" : {
+	    "amount" : 12.99,
+	    "currencyCode" : "USD"
+	  },
+	  "totalSales" : {
+	    "amount" : 155.88,
+	    "currencyCode" : "USD"
+	  }
+	}	  ]
+}
+
+--- RESPONSE TIME ---
+1.014954 seconds

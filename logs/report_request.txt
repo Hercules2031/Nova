@@ -1,0 +1,16 @@
+=== REPORT REQUEST ===
+URL: https://sellingpartnerapi-na.amazon.com/reports/2021-06-30/reports
+Method: POST
+Headers:
+{
+  "x-amz-access-token": "Atza|IwEBICwu3kSh5-7DaKwyWKnYbHdt-xUv8DMkU_9aqpeR4vhdYpPT_bQp6wK4AN2Irt5x47kzNBeC8bR2t3EM9qjt-JrYafaC3kA55gyIRplhtw29W60Z0VkpKUruxMn56GvbxDyDp9MZVWcyptAJ7AF4OlV7MuVRgd-DsaR1_8wKNiSVDUKGyF1YzKDZY8SvMKzc5oQcha6q6-MQEfxqnqcWJb6hy2Ku5YTm1aPa8zo40mb6fV8rA6Po6ZDnEpGMLmbeCJmuyfOhHgQkpKiURmu5PKyB02Oo2QGFjjldEaNA848WZCRbS4dylhClmBsTobIM6UwpiuxxA5T2D_Zj5yzsrXJ5wKEXEcjBy5ccbvgtXYQeOQ",
+  "Content-Type": "application/json"
+}
+Body:
+{
+  "reportType": "GET_MERCHANT_LISTINGS_ALL_DATA",
+  "dataStartTime": "2025-06-10T20:11:24.000Z",
+  "marketplaceIds": [
+    "ATVPDKIKX0DER"
+  ]
+}

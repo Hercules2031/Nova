@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SK029_4months
+Timestamp: 2025-11-05 22:29:00
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=SK029
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIFNSWXNDslQqUWYcjsRbCx1F4OIhtXoFOCNLQVmLnf_OerOnxFuY32dWjxaOhk6QDEc3KWCIyBxLLSmHSRpT07eT4xQI5eERYLSRukXPnNtTKJDUUU05q8YE16WItunKSG6kw0g7VzrYvdG3RScU1_r4Y29LlgbJmEvAQXHHaQkcjnbWsqk-Drhe4gBb_56gk1_PtHVAiFdoSQbhMjKlc7KqtBuDK2SVzx0kTJv3Hiu5u8clL3QC8Sto2hRCsBUUzvTzyqxNyags60pKvJOcFT1kCs49qxPcb5Z37YjPTh1V-oWCPFJ8yP8gaEEs1fqCsuF6vNxF5ZWQnviGOTHfcMrvNSQt08ICNNRMHu7VeQgbhA
+
+--- BODY ---
+No body

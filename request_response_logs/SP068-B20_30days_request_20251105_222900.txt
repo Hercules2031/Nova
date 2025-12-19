@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: SP068-B20_30days
+Timestamp: 2025-11-05 22:29:00
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-10-06T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-08%3A00&granularity=Total&buyerType=All&firstDayOfWeek=Monday&sku=SP068-B20
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIL8pn0-FgbwlQTy4JH8BrjomzsT3wAenczraOTJKPadAaQ86rgFA_AhlSNRNEMOA0DzYuyTXCufbz3ys19IpPpeImWQCczrrxASzb_GoAHyaac2Gb7KnB5yVmtmlC3UknPtZ3CsK7YkDj5W5oEqVXiBcql2l7qZGvJt6yU8J_LpiNw4crRisRp1t6IcynuxwR0A-qBthaFdCZGMzTWLKd2Cb-oM-9TYtSgGDAEQwyW9HUWWEYScJZuDxiZidSa1iukbY4mBG_v7x8PbOANMjPkogz9UnaaeuLotESgGp-KiMS2Qgaz0EjinG7E3_E2cunvA5P_GRIx8Fn5CBP43_4rmm0rrcoR2rv4869-hQCQ_rww
+
+--- BODY ---
+No body

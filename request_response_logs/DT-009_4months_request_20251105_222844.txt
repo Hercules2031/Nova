@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: DT-009_4months
+Timestamp: 2025-11-05 22:28:44
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=DT-009
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIADSHkA5A3Xnv6X0bn5_A1BzMM3LcfIuaHyajI50GfSihxwBfJUHDpfcladUQmh90kbrj7fo2L_j7II-nOQdoVhE_TaBQR8LLarmk3q_tpaTJROYOL_rn4Icjr19FrS5JappPtpLDb-KOomutFoPyiQZxmoEzV0cbiCEnezbLtujqqu6YFfgD180YOruMCC7nGfQptKa3iP3XrvO6Ucm7vjuHMs3p9UPdVKq2ijKpdIX25SCS0IStT9XRi4r6XWLFctKhfgPfta-_5sHAaykRdMGvJt1rsYZTUo3NmzDYMmgo5OIuFaWBHFZaU6K-tekMOJOBqJMbSSa-z-EIe4uVbGJLzgTl8SfTBib4-5rgLcycg
+
+--- BODY ---
+No body

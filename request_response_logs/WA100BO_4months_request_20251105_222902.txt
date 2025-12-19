@@ -1,0 +1,15 @@
+=== FULL REQUEST DETAILS ===
+SKU: WA100BO_4months
+Timestamp: 2025-11-05 22:29:02
+
+--- URL ---
+https://sellingpartnerapi-na.amazon.com/sales/v1/orderMetrics?marketplaceIds=ATVPDKIKX0DER&interval=2025-07-08T00%3A00%3A00-08%3A00--2025-11-05T00%3A00%3A00-12%3A00&granularity=Month&buyerType=All&firstDayOfWeek=Monday&sku=WA100BO
+
+--- METHOD ---
+GET
+
+--- HEADERS ---
+x-amz-access-token: Atza|IwEBIIvRVZmYeVgcscwjWnGUKP4SVZJjm6kDJAPcqfFpEIjN_1rQM1UnnjsUk7bpr9sHxF_bDo92vGJt50ziCZryhBI2ctFQgArLgfGyoSWILt3v_ohqbITTIVj8FE2p1LCbMmH7WI920p73vGHrqde4nXwpuM0RbbipJJvpMcc7wnbHbtphcDw2SsDGVWiKyDQPakiBsc2DGckAVSTI8F0j68YcxkA9vLhKDPq3yhxM2sS8LfUi9Hp-ddlJPl_QEBiOZUQHwHSZbX24NOwDDQvF04atKFq7L3--JRgJsU6_aUcgpIY2f3oKkOaRbI6opkOfXiq0DiJQ3ikcPH-p4G5boKxowugjMa-m8Tug3RmejppL8w
+
+--- BODY ---
+No body
